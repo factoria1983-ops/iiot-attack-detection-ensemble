@@ -11,8 +11,6 @@ The study utilizes the X-IIoTID dataset, a publicly available benchmark dataset 
 The dataset can be accessed from:
 https://www.unb.ca/cic/datasets/iiot-dataset-2023.html
 
-A version of the dataset used in this study is also archived on Zenodo:
-https://doi.org/10.5281/zenodo.19567561
 
 Note: The dataset is not included in this repository. Please download it from the official source and update the dataset path before running the code.
 
